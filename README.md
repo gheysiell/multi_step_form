@@ -1,7 +1,7 @@
 # multi_step_form
 
 
-<div> <img src="https://raw.githubusercontent.com/gheysiell/images/master/multi_steps_form_1.png" width="300"/> </div>
+<div> <img src="https://raw.githubusercontent.com/gheysiell/images/master/multi_steps_form_1.png"/> </div>
 <div> <img src="https://raw.githubusercontent.com/gheysiell/images/master/multi_steps_form_2.png"/> </div>
 <div> <img src="https://raw.githubusercontent.com/gheysiell/images/master/multi_steps_form_3.png"/> </div>
 <div> <h2> Form with 3 steps, made with ReactJs </h2> </div>
